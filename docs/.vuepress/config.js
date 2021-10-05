@@ -5,5 +5,8 @@ module.exports = {
 
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
+    lastUpdatedText: '更新时间',
+    contributorsText: '作者',
+    toggleDarkMode: '白天/夜间模式'
   },
 }
